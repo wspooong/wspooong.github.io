@@ -16,6 +16,6 @@ social: true  # includes social icons at the bottom of the page
 
 Hi, I am a `Data Engineer` at [Communication Data and Network Analytics Lab](https://cdna.survey.sinica.edu.tw/) (CDNA), RCHSS, Academia Sinica. 
 
-I complete my Master in Sociology from Tunghai University. I use qualitative method, `Sequential Analysis` from Objective Hermeneutics to know how people thinking about entering higher education in Taiwan. My passion in socioloy is to know how people react with others and furthermore, the social structure. 
+I complete my Master in Sociology from Tunghai University. I use qualitative method, `Sequential Analysis` from Objective Hermeneutics to know how people in Taiwan thinking about entering higher education. My passion in socioloy is to know how people react with others and furthermore, the social structure. 
 
 Currently, I am learning to invest information from data in both qualitative and quantitative method.
