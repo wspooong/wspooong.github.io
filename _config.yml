@@ -11,7 +11,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   
 footer_text: >
 
-lang: zh-tw # the language of your site (for example: en, fr, cn, ru, etc.)
+lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon:  # the emoji used as the favicon
 url: https://wspooong.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
