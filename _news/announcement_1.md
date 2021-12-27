@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+title: Got my Master degree and enter CDNA.
+date: 2021-04-19 00:00:00+0800
 inline: true
 ---
 
-A simple inline announcement.
+Got my Master degree and enter CDNA.
