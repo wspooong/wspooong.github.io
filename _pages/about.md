@@ -18,4 +18,4 @@ Hi, I am a `Data Engineer` at [Communication Data and Network Analytics Lab](htt
 
 I complete my Master in Sociology from Tunghai University. I use the qualitative approach, `Sequential Analysis` from Objective Hermeneutics to know how people in Taiwan think about entering higher education. My passion in sociology is to know how people react with others, and furthermore, the social structure.
 
-Currently, I am learning to invest information from data in both qualitative and quantitative methods.
+Currently, I am learning to discover knowledge from data in both qualitative and quantitative methods.
