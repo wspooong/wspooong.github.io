@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi, I am a `Data Engineer` at [Communication Data and Network Analytics Lab](https://cdna.survey.sinica.edu.tw/) (CDNA), RCHSS, Academia Sinica. 
+Hi, I am a `Data Engineer` at [Communication Data and Network Analytics Lab](https://cdna.survey.sinica.edu.tw/index_en.html) (CDNA), RCHSS, Academia Sinica. 
 
 I complete my Master in Sociology from Tunghai University. I use the qualitative approach, `Sequential Analysis` from Objective Hermeneutics to know how people in Taiwan think about entering higher education. My passion in sociology is to know how people react with others, and furthermore, the social structure.
 
