@@ -3,7 +3,7 @@ layout: page
 permalink: /papers/
 title: papers
 description: 
-years: [2021]
+years: [2021, 2022]
 nav: true
 ---
 
