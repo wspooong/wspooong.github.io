@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-# description: Qualitative, Social Psychology, Data Science.
+description: Two year experience in Data Science. Know Qualitative Research and Social Psychology.
 
 profile:
   align: right
@@ -16,9 +16,9 @@ social: false  # includes social icons at the bottom of the page
 
 I am a `Data Engineer` at the [Communication Data and Network Analytics Lab](https://cdna.survey.sinica.edu.tw/index_en.html) (CDNA), situated within the Research Center for Humanities and Social Sciences (RCHSS) at Academia Sinica.
 
-While my academic background lies in Sociology, I have developed a comprehensive skill set in data science through self-study. With 2 years of practical experience, I possess expertise in `data collection`, `data cleaning`, and natural language processing, encompassing various techniques such as Word2Vec, BERT, and topic modeling.
+While my academic background lies in Sociology, I have developed a comprehensive skill set in data science through self-study. With 2 years of practical experience, I possess expertise in `data collection`, `data cleaning`. I am experience in Natural Language Processing(NLP) including topic modeling, document similarity, and text generation. I also possess a good understanding of language models like Word2Vec and Transformer-based model, which are commonly used in NLP applications.
 
-My background includes a Master's degree in Sociology from Tunghai University, with a research focus on human behavior and social structures. My Master's thesis used Sequential Analysis from Objective Hermeneutics to explore the attitudes of individuals in Taiwan towards higher education, with the goal of uncovering the complex interplay between individuals, society, and education.
+I completed my Master's degree in Sociology at Tunghai University. In my thesis, I focused on utilizing the qualitative approach called `Sequential Analysis` from `Objective Hermeneutics` to understand how individuals in Taiwan perceive entering higher education. My passion for sociology stems from my interest in exploring how people interact with each other and how these interactions shape society's social structure.
 
 * * *
 
