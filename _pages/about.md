@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Two year experience in Data Science. Know Qualitative Research and Social Psychology.
+# description: Two year experience in Data Science. Know Qualitative Research and Social Psychology.
 
 profile:
   align: right
