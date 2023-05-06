@@ -16,7 +16,7 @@ social: false  # includes social icons at the bottom of the page
 
 I am a `Data Engineer` at the [Communication Data and Network Analytics Lab](https://cdna.survey.sinica.edu.tw/index_en.html) (CDNA), situated within the Research Center for Humanities and Social Sciences (RCHSS) at Academia Sinica.
 
-While my academic background lies in Sociology, I have developed a comprehensive skill set in data science through self-study. With 2 years of practical experience, including `data collection`, `data cleaning`. My expertise extends to Natural Language Processing(NLP) including topic modeling, document similarity, and text generation. I also have a good understanding of language models like Word2Vec and Transformer-based model.
+While my academic background lies in Sociology, I have developed a comprehensive skill set in data science through self-study. With 2 years of practical experience, including `data collection`, `data cleaning`. My expertise extends to `Natural Language Processing(NLP)` including `topic modeling`, `document similarity`, and `text generation`. I also have a good understanding of language models like `Word2Vec` and `Transformer-based` model.
 
 I completed my Master's degree in Sociology at Tunghai University. In my thesis, I focused on utilizing the qualitative approach called `Sequential Analysis` from `Objective Hermeneutics` to understand how individuals in Taiwan perceive entering higher education. My passion for sociology stems from my interest in exploring how people interact with each other and how these interactions shape society's social structure.
 
