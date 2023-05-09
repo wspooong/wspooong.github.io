@@ -29,6 +29,10 @@ I completed my Master's degree in Sociology at Tunghai University. In my thesis,
    - Inpired by: [Keyword Analysis (GroundAI)](https://keywords.groundedai.company/api/keyword_analysis/) 
    - [Demo](https://ndltd-tw-recommendation-system.fly.dev/#/)
 
+2. Weird Keywords Abstract Generation
+    - This project aims to test both the Bloom model and GPT-3 by generating possible paper titles when given any keyword. The goal is to see who can come up with the most creative and far-fetched ideas.
+    - Tech: Network Analysis, GPT, Bloom for text generation.
+    - [GitHub](https://github.com/wspooong/weird-keywords-abstract-generation)
 * * *
 
 ### skilled-based project
