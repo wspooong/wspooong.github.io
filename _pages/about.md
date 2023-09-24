@@ -14,7 +14,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a `Data Engineer` at the [Communication Data and Network Analytics Lab](https://cdna.survey.sinica.edu.tw/index_en.html) (CDNA), situated within the Research Center for Humanities and Social Sciences (RCHSS) at Academia Sinica.
+I am a `Python Developer` with expertise in `Data Science`, `Natural Language Processing`, and `Hardware Testing`. Currently, I am employed at `Wipro` as a `Hardware Testing Engineer`.
+
+In my previous role, I worked at at the [Communication Data and Network Analytics Lab](https://cdna.survey.sinica.edu.tw/index_en.html) (CDNA), situated within the Research Center for Humanities and Social Sciences (RCHSS) at Academia Sinica. 
 
 While my academic background lies in Sociology, I have developed a comprehensive skill set in data science through self-study. With 2 years of practical experience, including `data collection`, `data cleaning`. My expertise extends to `Natural Language Processing(NLP)` including `topic modeling`, `document similarity`, and `text generation`. I also have a good understanding of language models like `Word2Vec` and `Transformer-based` model.
 
