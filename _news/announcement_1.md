@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+title: Completed Master's degree in Sociology and enter CDNA.
+date: 2021-04-19 00:00:00+0800
 inline: true
-related_posts: false
 ---
 
-A simple inline announcement.
+Completed Master's degree in Sociology and enter CDNA.
