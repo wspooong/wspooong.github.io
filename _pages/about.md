@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-# description: Two year experience in Data Science. Know Qualitative Research and Social Psychology.
+description: A `Python Developer` with expertise in `Data Science`, `Natural Language Processing`. 
 
 profile:
   align: right
@@ -11,7 +11,7 @@ profile:
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 
 I am a `Python Developer` with expertise in `Data Science`, `Natural Language Processing`. 
@@ -26,15 +26,13 @@ I completed my Master's degree in Sociology at Tunghai University. In my thesis,
 
 ### personal projects
 
-1. NDLTD Recommendation System ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-   - This content-based recommendation system uses the "abstracts" of each Master's and Doctoral thesis to compare their similarity, and selects the top 5 articles that are most relevant to it.  
+1. NDLTD TW Papers Graph ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+   - This project uses Vue.js for the frontend and FastAPI for the backend. It utilizes Opensearch as vector database.
+   - This project employs GitHub Actions for automating the CI/CD process and hosted on AWS.
+   - Uses AWS Lambda as  web scraper to gather data, using Sentence-Transformer to understand the meaning of words, and uses KNN to find articles that are similar to each other.
    - Inpired by: [Keyword Analysis (GroundAI)](https://keywords.groundedai.company/api/keyword_analysis/) 
-   - [Demo](https://ndltd-tw-recommendation-system.fly.dev/#/)
+   - [https://ndltd-tw-papers-graph.wspooong.com](https://ndltd-tw-papers-graph.wspooong.com)
 
-2. Weird Keywords Abstract Generation
-    - This project aims to test both the Bloom model and GPT-3 by generating possible paper titles when given any keyword. The goal is to see who can come up with the most creative and far-fetched ideas.
-    - Tech: Network Analysis, GPT, Bloom for text generation.
-    - [GitHub](https://github.com/wspooong/weird-keywords-abstract-generation)
 
 * * *
 
