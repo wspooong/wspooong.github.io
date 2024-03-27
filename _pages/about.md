@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: A `Python Developer` with expertise in `Data Science`, `Natural Language Processing`. 
+description: A Python Developer with expertise in Data Science and Natural Language Processing. 
 
 profile:
   align: right
