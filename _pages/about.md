@@ -30,7 +30,7 @@ I completed my Master's degree in Sociology at Tunghai University. In my thesis,
    - This project uses Vue.js for the frontend and FastAPI for the backend. It utilizes Opensearch as vector database.
    - This project employs GitHub Actions for automating the CI/CD process and hosted on AWS.
    - Uses AWS Lambda as  web scraper to gather data, using Sentence-Transformer to understand the meaning of words, and uses KNN to find articles that are similar to each other.
-   - Inpired by: [Keyword Analysis (GroundAI)](https://keywords.groundedai.company/api/keyword_analysis/) 
+   - Inpired by: [Keyword Analysis (GroundAI)](https://keywords.groundedai.company/) 
    - [https://ndltd-tw-papers-graph.wspooong.com](https://ndltd-tw-papers-graph.wspooong.com)
 
 
