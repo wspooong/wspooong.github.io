@@ -14,13 +14,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a `Python Developer` with expertise in `Data Science`, `Natural Language Processing`. 
+I am a `Python Developer` with expertise in `Data Science`, `Natural Language Processing` and `Testing`.
 
-In my previous role, I worked at at the [Communication Data and Network Analytics Lab](https://cdna.survey.sinica.edu.tw/index_en.html) (CDNA), situated within the Research Center for Humanities and Social Sciences (RCHSS) at Academia Sinica. 
-
-While my academic background lies in Sociology, I have developed a comprehensive skill set in data science through self-study. With 2 years of practical experience, including `data collection`, `data cleaning`. My expertise extends to `Natural Language Processing(NLP)`.
-
-I completed my Master's degree in Sociology at Tunghai University. In my thesis, I focused on utilizing the qualitative approach called `Sequential Analysis` from `Objective Hermeneutics` to understand how individuals in Taiwan perceive entering higher education. My passion for sociology stems from my interest in exploring how people interact with each other and how these interactions shape society's social structure.
+Currently, I work as a `Data Analysis Engineer` at [GoMore](https://www.gomore.net/en).
 
 * * *
 
@@ -32,6 +28,11 @@ I completed my Master's degree in Sociology at Tunghai University. In my thesis,
    - Uses AWS Lambda as  web scraper to gather data, using Sentence-Transformer to understand the meaning of words, and uses KNN to find articles that are similar to each other.
    - Inpired by: [Keyword Analysis (GroundAI)](https://keywords.groundedai.company/) 
    - [https://ndltd-tw-papers-graph.wspooong.com](https://ndltd-tw-papers-graph.wspooong.com)
+
+2. LY Transcription
+   - LY Transcription helps you download Legislative Gazette records from the [Legislative Yuan(立法院)](https://www.ly.gov.tw/Home/Index.aspx) and convert them into JSON files.
+   - Since the files are in DOC format, and Python currently supports processing Word files in DOCX format, the files need to be converted from DOC to DOCX before the transformation can take place.
+   - Note: The DOC-to-DOCX conversion tool is provided by Microsoft Office, and I have only tested it on Windows. Therefore, this project is currently compatible only with Windows systems.
 
 
 * * *
